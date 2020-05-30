@@ -1,4 +1,3 @@
-# https://github.com/keymetrics/docker-pm2
 FROM node:8.11.1-alpine
 
 LABEL maintainer=matthieu.lassalvy@beta.gouv.fr

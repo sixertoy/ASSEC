@@ -13,9 +13,9 @@
 
 # default build environment for docker
 DEFAULT_ENV="local"
-
 # valeur par defaut
 REACT_APP_ENV=$DEFAULT_ENV
+
 # recupere l'environment defini via la ligne de commande
 for i in "$@"; do
   case $i in
